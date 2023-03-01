@@ -36,7 +36,7 @@ This is a personal project where I intended to practise and showcase my webscrap
 __Skills Used in the Project__
 * Webscraping skill with PYTHON (Beautiful Soup library)
 * Data cleaning skill with EXCEL
-* Data analysis with Pivot table
+* Data analysis skill with EXCEL Pivot table
 * Data visualization (dashboard) skill with EXCEL Pivot Charts
 
 **Findings and Recommendations:**
