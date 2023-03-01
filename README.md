@@ -43,4 +43,5 @@ __Skills Used in the Project__
 The descriptive summary obtained at the end of this project could guide real estate businesses on the choice of summary statistics that could be included in their websites to make them user-friendly and increase customers' satisfaction. 
 
 [**See Webscraping code file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/buying_a_house_in_Enugu.ipynb)
+[**See Excel file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Enugu_Real_estate_data.xlsx?raw=true)
 
