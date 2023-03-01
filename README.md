@@ -2,8 +2,8 @@
 This repository contains my data analyst projects, both completed and on-going.
 
 # PROJECT 1: DEBT ANALYSIS
-#### TOOLS: EXCEL   
-![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Microsoft_Excel_2013-2019_logo.svg.png?raw=true)
+#### TOOLS:   
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Microsoft_Excel_2013-2019_logo.svg.png?raw=true "EXCEL")
 #### TYPE OF PROJECT: Data Cleaning, Data Analysis and Visualization
 
 __Overview:__
