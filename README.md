@@ -35,8 +35,9 @@ This is a personal project where I intended to practise and showcase my webscrap
 
 __Skills Used in the Project__
 * Webscraping skill with PYTHON (Beautiful Soup library)
-* Data data cleaning skill with EXCEL
-* Data visualization (dashboard) skill with EXCEL
+* Data cleaning skill with EXCEL
+* Data analysis with Pivot table
+* Data visualization (dashboard) skill with EXCEL Pivot Charts
 
 **Findings and Recommendations:**
 The descriptive summary obtained at the end of this project could guide real estate businesses on the choice of summary statistics that could be included in their websites to make them user-friendly and increase customers' satisfaction. 
