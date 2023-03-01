@@ -1,4 +1,3 @@
-# Chimaobi Ogbonna Portfolio
 ##### _This repository contains my data analyst projects, both completed and on-going._
 
 # PROJECT 1: DEBT ANALYSIS
