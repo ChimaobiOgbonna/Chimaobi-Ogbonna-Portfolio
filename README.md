@@ -5,7 +5,7 @@ This repository contains my data analyst projects, both completed and on-going.
 #### TOOLS:   
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Microsoft_Excel_2013-2019_logo.svg.png?raw=true "EXCEL")
 
-![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true)
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "Tableau")
 #### TYPE OF PROJECT: Data Cleaning, Data Analysis and Visualization
 
 __Overview:__
