@@ -20,10 +20,6 @@ __Skills Used in the Project__
 My analysis revealed that 23 individuals out of the 121 members of the association owed over 34% of the total debt. Therefore, to save resources and ensure quick recovery of debts, it was suggested that a debt recovery committee be instituted and they should start the debt recovery process with the 23 individuals that are most indebted to the association. 
 
 [**See Result Dashboard here**](https://public.tableau.com/app/profile/chimaobi7625/viz/BFCDEBTANALYSIS/Dashboard1)
-
-
-
-
 # PROJECT 2: REAL ESTATE IN ENUGU STATE
 #### TOOLS:   
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
