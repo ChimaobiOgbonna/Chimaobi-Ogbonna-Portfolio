@@ -23,6 +23,7 @@ My analysis revealed that 23 individuals out of the 121 members of the associati
 
 
 
+
 # PROJECT 2: REAL ESTATE IN ENUGU STATE
 #### TOOLS:   
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
@@ -35,7 +36,7 @@ This is a personal project where I intended to practise and showcase my webscrap
 
 __Skills Used in the Project__
 * Webscraping skill with PYTHON (Beautiful Soup library)
-* Data data cleaing skill with EXCEL
+* Data data cleaning skill with EXCEL
 * Data visualization (dashboard) skill with EXCEL
 
 **Findings and Recommendations:**
