@@ -11,7 +11,7 @@ __Overview:__
 A new executive was elected in an association. Part of their first assignment was to recover the debt owed by members of the association since its inception.
 My job as a data analyst was to conduct a debt analysis and present my findings using meaningful visualizations to help the executive understand the debt burden of members of the association. 
 
-__Skill Used in the Project__
+__Skills Used in the Project__
 * Data cleaning skill with EXCEL
 * Data analysis skill with Tableau
 * Data visualization (dashboard) skill with Tableau
@@ -31,9 +31,9 @@ My analysis revealed that 23 individuals out of the 121 members of the associati
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
 
 __Overview:__
-This is a personal project where I intended to practise and showcase my webscraping skills. I scrapped a real estate website and presented a descriptive summary of properties advertised the website. 
+This is a personal project where I intended to practise and showcase my webscraping skills. I scrapped a real estate website and presented a descriptive summary of properties advertised in the website. 
 
-__Skill Used in the Project__
+__Skills Used in the Project__
 * Webscraping skill with PYTHON (Beautiful Soup library)
 * Data data cleaing skill with EXCEL
 * Data visualization (dashboard) skill with EXCEL
