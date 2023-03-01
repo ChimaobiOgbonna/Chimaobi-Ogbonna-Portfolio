@@ -25,6 +25,9 @@ My analysis revealed that 23 individuals out of the 121 members of the associati
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
 
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Microsoft_Excel_2013-2019_logo.svg.png?raw=true "EXCEL")
+
+
+
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
 
 __Overview:__
@@ -36,7 +39,7 @@ __Skills Used in the Project__
 * Data visualization (dashboard) skill with EXCEL
 
 **Findings and Recommendations:**
-The descriptive summary obtained at the end of this project could guide real estate businesses on the choice of summary statistics that could be included in their websites to make them user-friendly and increase customer satisfaction. 
+The descriptive summary obtained at the end of this project could guide real estate businesses on the choice of summary statistics that could be included in their websites to make them user-friendly and increase customers' satisfaction. 
 
 [**See Result Dashboard here**](https://public.tableau.com/app/profile/chimaobi7625/viz/BFCDEBTANALYSIS/Dashboard1)
 
