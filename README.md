@@ -15,7 +15,7 @@ My job as a data analyst was to conduct a debt analysis and present my findings 
 __Skill Used in the Project__
 * Data cleaning skill with EXCEL
 * Data analysis skill with Tableau
-* Data visualization skill with Tableau
+* Data visualization (dashboard) skill with Tableau
 
 **Findings and Recommendations:**
 My analysis revealed that 23 individuals out of the 121 members of the association owed 34% of the total debt. Therefore, to save resources and ensure quick recovery of debts, it was suggested that a debt recovery committee be instituted and they should start the debt recovery process with the 23 individuals that are most indebted to the association. 
