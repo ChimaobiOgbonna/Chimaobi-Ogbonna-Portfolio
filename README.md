@@ -79,9 +79,8 @@ Recommended skillset:
 * Platforms: Windows, Linux, AWS, Docker.
 * Web Frame: JQuery, Angular/Angular.js, ASP.NET, React.js
 
-[**See Webscraping code file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/buying_a_house_in_Enugu.ipynb)
+[**See full project report here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/capstone-story-template.pdf)
 
-[**Download Excel file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Enugu_Real_estate_data.xlsx?raw=true)
 
 
 
