@@ -56,7 +56,7 @@ The descriptive summary obtained at the end of this project could guide real est
 #### TOOLS:   
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
 
-![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Microsoft_Excel_2013-2019_logo.svg.png?raw=true "EXCEL")
+![alt text]()
 
 
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
@@ -72,7 +72,7 @@ __Skills Used in the Project__
 * Data visualization (dashboard) skill with IBM COGNOS ANALYTICS
 
 **Findings and Recommendations:**
-The field of information technology has continued to become popular since many industries tend torely more on technology-driven processes. However, to successfully gain a job in the IT field, one is expected to possess some relevant technological skillsets.
+The field of information technology has continued to become popular since many industries tend to rely more on technology-driven processes. However, to successfully gain a job in the IT field, one is expected to possess some relevant technological skillsets.
 Recommended skillset:
 * Languages: JavaScript, HTML/CSS, SQL
 * Database: MySQL, Microsoft SQL server, PostgreSQL.
