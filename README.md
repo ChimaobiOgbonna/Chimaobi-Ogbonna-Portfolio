@@ -56,7 +56,7 @@ The descriptive summary obtained at the end of this project could guide real est
 #### TOOLS:   
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
 
-![alt text]()
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/ibm-cognos-analytics%20edit.png?raw=true)
 
 
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
