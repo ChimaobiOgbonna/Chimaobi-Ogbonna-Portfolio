@@ -90,7 +90,7 @@ Recommended skillset:
 #### TYPE OF PROJECT: Data Cleaning, Data Analysis, Natural language processing and Visualization
 
 __Overview:__
-The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election is Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the greatest acceptance especially among the youth, and has been predicted to win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. following his loss, he presented a speech to his teeming followers, popularly known as the "Obidients", on the 2nd March, 2023. The speeech contained his position on the outcome of the election and the way forward.
+The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election is Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the greatest acceptance especially among the youth, and has been predicted to win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. Following his loss, he presented a speech to his teeming followers, popularly known as the "Obidients", on the 2nd March, 2023. The speeech contained his position on the outcome of the election and the way forward.
 This project is meant to analyse this speech to determine the exent it possesses the characteristics of hope and positive directions.
 
 __Skills Used in the Project__
