@@ -7,7 +7,7 @@
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "TABLEAU")
 #### TYPE OF PROJECT: Data Cleaning, Data Analysis and Visualization
 
-__Project Status:__ `__Completed__`
+__Project Status:__ __`Completed`__
 
 __Overview:__
 A new executive was elected in an association. Part of their first assignment was to recover the debt owed by members of the association since its inception.
