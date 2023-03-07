@@ -82,5 +82,24 @@ Recommended skillset:
 [**See full project report here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/capstone-story-template.pdf)
 
 
+# PROJECT 4: SENTIMENT ANALYSIS: An analysis of Peter Obi's Speech after 2023 Presidential Election in Nigeria
+#### TOOLS:   
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
+
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "TABLEAU")
+#### TYPE OF PROJECT: Data Cleaning, Data Analysis, Natural language processing and Visualization
+
+__Overview:__
+The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election is Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the the greatest acceptance especially among the youth, and have been predicted to be the win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. following his loss, he presented a speech to his teeming followers, popularly known as "Obidients", on the 2nd March, 2023. The speeech contained his position on the outcome of the elections and the way forward.
+This project is meant to analyse this speech to dertermine the exent it possesses the characteristics of hope and positive directions.
+
+__Skills Used in the Project__
+* Data extraction skill from news sites with python
+* Natural language processing with Python
+* Data visualization skill with Python 
+
+**Findings and Recommendations:**
+[Will be added at the completion of the project]
+
 
 
