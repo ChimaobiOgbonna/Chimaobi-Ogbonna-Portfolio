@@ -35,6 +35,8 @@ My analysis revealed that 23 individuals out of the 121 members of the associati
 
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
 
+__Project Status:__ __`Completed`__
+
 __Overview:__
 This is a personal project where I intended to practise and showcase my webscraping skills. I scrapped a real estate website and presented a descriptive summary of properties advertised in the website. 
 
@@ -63,6 +65,8 @@ The descriptive summary obtained at the end of this project could guide real est
 
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
 
+__Project Status:__ __`Completed`__
+
 __Overview:__
 This is a project I completed as one the requirements for the award of the IBM Data Analyst Professional Certificate. The aim of the project was to help job seekers, especially in the information technology field, have information on relevant technological skills required to land a job and thrive in the field. This was achieved by researching and evaluating the technology use trend of current IT professionals. 
 
@@ -90,6 +94,8 @@ Recommended skillset:
 
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "TABLEAU")
 #### TYPE OF PROJECT: Data Cleaning, Data Analysis, Natural language processing and Visualization
+
+__Project Status:__ __`On-going`__
 
 __Overview:__
 The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election is Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the greatest acceptance especially among the youth, and has been predicted to win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. Following his loss, he presented a speech to his teeming followers, popularly known as the "Obidients", on the 2nd March, 2023. The speech contained his position on the outcome of the election and the way forward.
