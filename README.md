@@ -95,7 +95,7 @@ Recommended skillset:
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "TABLEAU")
 #### TYPE OF PROJECT: Data Cleaning, Data Analysis, Natural language processing and Visualization
 
-__Project Status:__ __`On-going`__
+__Project Status:__ __`Completed`__
 
 __Overview:__
 The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election was Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the greatest acceptance especially among the youths, and has been predicted to win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. Following his loss, he presented a speech to his teeming followers, popularly known as the "Obidients", on the 2nd March, 2023. The speech contained his position on the outcome of the election and the way forward.
@@ -137,6 +137,7 @@ __Skills Used in the Project__
 *   In all, the speech was fairly objective and postive, and appears to offer hope and positive direction to the people of Nigeria.
 
 [**See Project Dashboard here**](https://public.tableau.com/app/profile/chimaobi7625/viz/SentimentAnalysisofPeterObisPostElectionspeech/sentiment_dashbaord)
+
 [**Download Full Project file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Sentiment_analysis.ipynb)
 
 
