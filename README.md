@@ -141,6 +141,38 @@ __Skills Used in the Project__
 [**Download Full Project file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Sentiment_analysis.ipynb)
 
 
+# PROJECT 5: BUILDING A SCHOOL-DROPOUT PROFILE
+#### TOOLS:   
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
+
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "TABLEAU")
+
+
+
+#### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
+
+__Project Status:__ __`Completed`__
+
+__Overview:__
+This is a personal project where I intended to practise and showcase my webscraping skills. I scrapped a real estate website and presented a descriptive summary of properties advertised in the website. 
+
+__Skills Used in the Project__
+* Webscraping skill with PYTHON (Beautiful Soup library)
+* Data cleaning skill with EXCEL
+* Data analysis skill with EXCEL Pivot table
+* Data visualization (dashboard) skill with EXCEL Pivot Charts
+
+**Findings and Recommendations:**
+The descriptive summary obtained at the end of this project could guide real estate businesses on the choice of summary statistics that could be included in their websites to make them user-friendly and increase customers' satisfaction. 
+
+[**See Webscraping code file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/buying_a_house_in_Enugu.ipynb)
+
+[**Download Excel file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Enugu_Real_estate_data.xlsx?raw=true)
+
+
+
+
+
 
 
 
