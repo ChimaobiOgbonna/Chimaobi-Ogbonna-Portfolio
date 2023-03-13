@@ -137,7 +137,7 @@ __Skills Used in the Project__
 *   In all, the speech was fairly objective and postive, and appears to offer hope and positive direction to the people of Nigeria.
 
 [**See Project Dashboard here**](https://public.tableau.com/app/profile/chimaobi7625/viz/SentimentAnalysisofPeterObisPostElectionspeech/sentiment_dashbaord)
-[**Download Full Project file here**](https://public.tableau.com/app/profile/chimaobi7625/viz/SentimentAnalysisofPeterObisPostElectionspeech/sentiment_dashbaord)
+[**Download Full Project file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Sentiment_analysis.ipynb)
 
 
 
