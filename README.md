@@ -136,5 +136,10 @@ __Skills Used in the Project__
 *   These popular words suggest that Obi's and *Datti* are *thankful* to the *people of Nigeria* and *assures the people* of their *committment* towards achieveing a *new Nigeria*.
 *   In all, the speech was fairly objective and postive, and appears to offer hope and positive direction to the people of Nigeria.
 
+[**See Project Dashboard here**](https://public.tableau.com/app/profile/chimaobi7625/viz/SentimentAnalysisofPeterObisPostElectionspeech/sentiment_dashbaord)
+[**Download Full Project file here**](https://public.tableau.com/app/profile/chimaobi7625/viz/SentimentAnalysisofPeterObisPostElectionspeech/sentiment_dashbaord)
+
+
+
 
 
