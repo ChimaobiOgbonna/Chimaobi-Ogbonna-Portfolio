@@ -143,36 +143,23 @@ __Skills Used in the Project__
 
 # PROJECT 5: BUILDING A SCHOOL-DROPOUT PROFILE
 #### TOOLS:   
-![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Python-logo-notext.svg.png?raw=true "PYTHON")
+![alt text](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/R_logo.svg.png?raw=true "R")
 
 ![alt text](https://github.com/ChimaobiOgbonna/Chimaobi_Portfolio/blob/main/Tableau_Software_Logo_Small.png?raw=true "TABLEAU")
 
-
-
 #### TYPE OF PROJECT: Data gathering, Data cleaning, Data Analysis and Visualization
 
-__Project Status:__ __`Completed`__
+__Project Status:__ __`On-going`__
 
 __Overview:__
-This is a personal project where I intended to practise and showcase my webscraping skills. I scrapped a real estate website and presented a descriptive summary of properties advertised in the website. 
+School dropout has been on the increase among teenagers especially in the Sub-Sahran Africa. Available evidences suggest that process of identifying potential dropouts is vague with no empirical back-up. This project is intended to gather and analyse data related to school dropout across the world. The intention is to identify the characteritics of school drop-outs. With this information it would be possible to build a profile for a potential dropout. such information could assist present and future interventions aimed at reducig school dropout rate across the world.   
 
 __Skills Used in the Project__
-* Webscraping skill with PYTHON (Beautiful Soup library)
-* Data cleaning skill with EXCEL
-* Data analysis skill with EXCEL Pivot table
-* Data visualization (dashboard) skill with EXCEL Pivot Charts
+* Data collection skill
+* Data cleaning skill with R
+* Data analysis skill with R
+* Data visualization (dashboard) skill with Tableau
 
 **Findings and Recommendations:**
-The descriptive summary obtained at the end of this project could guide real estate businesses on the choice of summary statistics that could be included in their websites to make them user-friendly and increase customers' satisfaction. 
-
-[**See Webscraping code file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/buying_a_house_in_Enugu.ipynb)
-
-[**Download Excel file here**](https://github.com/ChimaobiOgbonna/Chimaobi-Ogbonna-Portfolio/blob/main/Enugu_Real_estate_data.xlsx?raw=true)
-
-
-
-
-
-
-
+[Will be added on the completion of the project]
 
