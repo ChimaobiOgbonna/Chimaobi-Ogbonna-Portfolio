@@ -114,7 +114,7 @@ __Skills Used in the Project__
 
 
 *   Overall, the polarity of the speech is `polarity = 0.218.`Hence, the speech is fairly positive.
-*   The most postive statement in the speech was: **"It is my belief that if you must answer “His Excellency”, the process through which you arrive to office must be excellent."** It has a polarity score of 1. This statement was however, very subjective (*subjectivity* = 1).
+*   The most positive statement in the speech was: **"It is my belief that if you must answer “His Excellency”, the process through which you arrive to office must be excellent."** It has a polarity score of 1. This statement was however, very subjective (*subjectivity* = 1).
 *   There were 49 sentences analysed. For indvidual sentences, 49% were positive (polarity > 0), 45% were neutral (polarity = 0) while only 6% were negative (polarity < 0).
 *   Wordcloud suggests that 10 most popular positive words include, **election, Nigeria, Nigerian, people, new, will, committed, country, Datti, possible**.
 *   These popular words may be interpreted as reflecting Obi's and *Datti*'s *commitment* toward giving the *Nigerian people* a *new Nigeria* through the *election*. 
@@ -134,7 +134,7 @@ __Skills Used in the Project__
 *   10 sentences (20.4%) were found to be both positive and objective.
 *   popular words among these sentences include, **New, Nigeria, people, Datti, will, assure, thank, remain, committed.**
 *   These popular words suggest that Obi's and *Datti* are *thankful* to the *people of Nigeria* and *assures the people* of their *committment* towards achieveing a *new Nigeria*.
-*   In all, the speech was fairly objective and postive, and appears to offer hope and positive direction to the people of Nigeria.
+*   In all, the speech was fairly objective and positive, and appears to offer hope and positive direction to the people of Nigeria.
 
 [**See Project Dashboard here**](https://public.tableau.com/app/profile/chimaobi7625/viz/SentimentAnalysisofPeterObisPostElectionspeech/sentiment_dashbaord)
 
