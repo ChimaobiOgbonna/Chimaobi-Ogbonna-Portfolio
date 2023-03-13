@@ -152,7 +152,7 @@ __Skills Used in the Project__
 __Project Status:__ __`On-going`__
 
 __Overview:__
-School dropout has been on the increase among teenagers especially in the Sub-Sahran Africa. Available evidences suggest that process of identifying potential dropouts is vague with no empirical back-up. This project is intended to gather and analyse data related to school dropout across the world. The intention is to identify the characteritics of school drop-outs. With this information it would be possible to build a profile for a potential dropout. such information could assist present and future interventions aimed at reducig school dropout rate across the world.   
+School dropout has been on the increase among teenagers especially in the Sub-Sahran Africa. Available evidences suggest that the process of identifying potential dropouts is vague with no empirical back-up. This project will gather and analyse data related to school dropout across the world. The intention is to identify the characteritics of school drop-outs. With this information it would be possible to build a profile for a potential dropout. such information could assist present and future interventions aimed at reducing school dropout rate across the world.   
 
 __Skills Used in the Project__
 * Data collection skill
@@ -161,5 +161,6 @@ __Skills Used in the Project__
 * Data visualization (dashboard) skill with Tableau
 
 **Findings and Recommendations:**
+
 [Will be added on the completion of the project]
 
