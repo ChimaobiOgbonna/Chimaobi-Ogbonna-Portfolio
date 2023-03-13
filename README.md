@@ -98,7 +98,7 @@ Recommended skillset:
 __Project Status:__ __`On-going`__
 
 __Overview:__
-The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election is Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the greatest acceptance especially among the youth, and has been predicted to win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. Following his loss, he presented a speech to his teeming followers, popularly known as the "Obidients", on the 2nd March, 2023. The speech contained his position on the outcome of the election and the way forward.
+The 2023 election was a big deal in Nigeria, especially the presidential election. Among the contestants in the presidential election was Mr. Peter Obi of Labour Party. Polls and opinions before the election suggest that Mr Peter enjoys the greatest acceptance especially among the youths, and has been predicted to win the election. Unfortunately, Mr Peter lost in the presidential polls held on 25th February 2023. Following his loss, he presented a speech to his teeming followers, popularly known as the "Obidients", on the 2nd March, 2023. The speech contained his position on the outcome of the election and the way forward.
 
 This project is meant to analyse this speech to determine the exent it possesses the characteristics of hope and positive directions.
 
@@ -108,7 +108,33 @@ __Skills Used in the Project__
 * Data visualization skill with Python 
 
 **Findings and Recommendations:**
-[Will be added at the completion of the project]
+# Interpretations
+
+## Polarity
+
+
+*   Overall, the polarity of the speech is `polarity = 0.218.`Hence, the speech is fairly positive.
+*   The most postive statement in the speech was: **"It is my belief that if you must answer “His Excellency”, the process through which you arrive to office must be excellent."** It has a polarity score of 1. This statement was however, very subjective (*subjectivity* = 1).
+*   There were 49 sentences analysed. For indvidual sentences, 49% were positive (polarity > 0), 45% were neutral (polarity = 0) while only 6% were negative (polarity < 0).
+*   Wordcloud suggests that 10 most popular positive words include, **election, Nigeria, Nigerian, people, new, will, committed, country, Datti, possible**.
+*   These popular words may be interpreted as reflecting Obi's and *Datti*'s *commitment* toward giving the *Nigerian people* a *new Nigeria* through the *election*. 
+
+## Objectivity
+
+
+*   Overall, the subjectivity of the speech is `subjectivity = 0.558.`Hence, the speech is moderately objective.
+*   18 sentences where perfectly objective with a subjectivity value of 0. These statements were also neutral (*polarity* = 0)
+*   There were 49 sentences analysed. For indvidual sentences, 67% were objective (subjectivity < .5), while only 33% were subjective (subjectivity > .5).
+*   Wordcloud suggests that 10 most popular objective words include, **Nigeria, election, people, gratitude, new, media, God, will, thank, Datti.**
+*   These popular words may be interpreted as reflecting Obi's and *Datti*'s *gratitude to God*, the *people of Nigeria* and the *media* for their support in the *election.*
+
+
+## Conclusion
+
+*   10 sentences (20.4%) were found to be both positive and objective.
+*   popular words among these sentences include, **New, Nigeria, people, Datti, will, assure, thank, remain, committed.**
+*   These popular words suggest that Obi's and *Datti* are *thankful* to the *people of Nigeria* and *assures the people* of their *committment* towards achieveing a *new Nigeria*.
+*   In all, the speech was fairly objective and postive, and appears to offer hope and positive direction to the people of Nigeria.
 
 
 
